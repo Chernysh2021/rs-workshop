@@ -1,2 +1,6 @@
+
 some text for header
-changes from <master> - new changes!!
+changes from <master> -  
+Change from <first>
+text from master: new changes!!
+
